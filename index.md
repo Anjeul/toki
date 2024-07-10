@@ -6,8 +6,7 @@ in_menu: true
 # BLAH dssdsdsdergf 
 
  
-<body>
-<div class="waviy">
+<div class="waviy" id="truc">
    <span style="--i:1">Z</span>
    <span style="--i:2">I</span>
    <span style="--i:3">Y</span>
@@ -20,4 +19,3 @@ in_menu: true
    <span style="--i:10">N</span>
 
   </div> 
-</body> 
