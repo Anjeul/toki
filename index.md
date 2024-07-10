@@ -3,7 +3,6 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-<body>
 <div class="container">
     <div class="snow"></div>
     <div class="tree1"></div>
@@ -85,9 +84,4 @@ in_menu: true
         <div class="screw"></div>
       </div>
       <div class="stck"></div>
-    </div>
-
-
-
-
-</body> 
+    </div> 
