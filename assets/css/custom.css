@@ -8,4 +8,6 @@ body {
 background-image : linear-gradient(135deg, #dcf6ff 0%, #e6e2ff 40%, #ffc4e7 100%);
 }
 
-p  {color: #dcf6ff;}
+p  {
+color: #dcf6ff;
+}
