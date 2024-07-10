@@ -5,4 +5,16 @@ in_menu: true
 ---
 # BLAH dssdsdsdergf 
 
-<span class="flipH">W3Docs &#9657;</span> 
+ <div class="waviy">
+   <span style="--i:1">Z</span>
+   <span style="--i:2">I</span>
+   <span style="--i:3">Y</span>
+   <span style="--i:4">O</span>
+   <span style="--i:5">V</span>
+   <span style="--i:6">U</span>
+   <span style="--i:7">D</span>
+   <span style="--i:8">D</span>
+   <span style="--i:9">I</span>
+   <span style="--i:10">N</span>
+
+  </div> 
