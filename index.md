@@ -3,6 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
+<body>
 <div class="container">
     <div class="snow"></div>
     <div class="tree1"></div>
