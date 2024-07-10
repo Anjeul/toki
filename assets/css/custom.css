@@ -8,17 +8,12 @@ body {
 background-image : linear-gradient(135deg, #dcf6ff 0%, #e6e2ff 40%, #ffc4e7 100%);
 }
 
-span {
-  display: inline-block;
-  margin: 40px;
-}
-
-.flipH {
-  transform: scale(-1, 1);
-  color: #1c87c9;
-  -moz-transform: scale(-1, 1);
-  -webkit-transform: scale(-1, 1);
-  -o-transform: scale(-1, 1);
-  -ms-transform: scale(-1, 1);
-  transform: scale(-1, 1);
-}
+ .flipH {
+        transform: scale(-1, 1);
+        color: #1c87c9;
+        -moz-transform: scale(-1, 1);
+        -webkit-transform: scale(-1, 1);
+        -o-transform: scale(-1, 1);
+        -ms-transform: scale(-1, 1);
+        transform: scale(-1, 1);
+      }
