@@ -3,19 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# BLAH dssdsdsdergf 
+# Bienvenue
 
- 
-<div class="waviy" id="truc">
-   <span style="--i:1">Z</span>
-   <span style="--i:2">I</span>
-   <span style="--i:3">Y</span>
-   <span style="--i:4">O</span>
-   <span style="--i:5">V</span>
-   <span style="--i:6">U</span>
-   <span style="--i:7">D</span>
-   <span style="--i:8">D</span>
-   <span style="--i:9">I</span>
-   <span style="--i:10">N</span>
-
-  </div> 
+<p> Aujourd'hui, ça va être fou. <br>
+Vraiment rien à dire. 
